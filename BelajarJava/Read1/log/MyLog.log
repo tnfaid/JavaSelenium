@@ -1,0 +1,4 @@
+2020-03-05 05:14:37:450 PenerapanLog4J:13 INFO  - Ini pesan info
+2020-03-05 05:14:37:458 PenerapanLog4J:14 WARN  - Ini pesan warn
+2020-03-05 05:14:37:459 PenerapanLog4J:15 ERROR - Ini pesan error
+2020-03-05 05:14:37:459 PenerapanLog4J:16 FATAL - Ini pesan fatal

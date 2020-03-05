@@ -1,0 +1,20 @@
+[2020-03-05 05:17:05,462] [ INFO] - root                                    
+Mulai masuk program dengan nama : Maniak Java
+[2020-03-05 05:17:05,463] [ERROR] - root                                    
+Ini menggunakan error
+[2020-03-05 05:17:05,463] [ WARN] - root                                    
+Ini menggunakan warn
+[2020-03-05 05:17:35,589] [ INFO] - root                                    
+Ini pesan info
+[2020-03-05 05:17:35,590] [ WARN] - root                                    
+Ini pesan warn
+[2020-03-05 05:17:35,590] [ERROR] - root                                    
+Ini pesan error
+[2020-03-05 05:17:35,590] [FATAL] - root                                    
+Ini pesan fatal
+[2020-03-05 05:17:35,590] [ INFO] - root                                    
+Mulai masuk program dengan nama : Maniak Java
+[2020-03-05 05:17:35,590] [ERROR] - root                                    
+Ini menggunakan error
+[2020-03-05 05:17:35,590] [ WARN] - root                                    
+Ini menggunakan warn
